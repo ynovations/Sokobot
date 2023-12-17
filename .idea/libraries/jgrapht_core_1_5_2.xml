@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="jgrapht-core-1.5.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/jgrapht-core-1.5.2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="https://sourceforge.net/projects/jgrapht/files/JGraphT/Version%201.5.2/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ideaLibSources/jgrapht-core-1.5.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
